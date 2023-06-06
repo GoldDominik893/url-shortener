@@ -1,4 +1,10 @@
 # url-shortener
+### How does it work?
+Creating a short link:
+HTML Form > PHP Backend > Generate a unique string > Save Long URL and String to file.
+
+Using the Short link:
+Request is sent > PHP Backend > Extract the string from the url > Search the file for the string > Send a Redirect Header back to the client.
 
 
 ## Liability
