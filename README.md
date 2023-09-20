@@ -1,4 +1,5 @@
-# url-shortener
+# Very Simple PHP URL Shortener
+> #### *No ads, no javascript, no java, no websocket, no bullshit.*
 ### How does it work?
 Creating a short link:
 HTML Form > PHP Backend > Generate a unique string > Save Long URL and String to file.
