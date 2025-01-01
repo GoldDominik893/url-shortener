@@ -10,6 +10,10 @@ Request is sent > PHP Backend > Extract the string from the url > Search the fil
 
 ## Liability
 
+Copyright (c) 2025 Dominik Wajda
+
+You are bound to the terms of the license if you download, use or want to distrubute this software.
+
 We take no responsibility for the use of our tool, or external instances
 provided by third parties. We strongly recommend you abide by the valid
 official regulations in your country. Furthermore, we refuse liability
